@@ -134,9 +134,13 @@ const results =
 	new Result("Моя бабушка и то больше набрала", 2, 'https://pbs.twimg.com/media/E7mDC45X0AULOxr.jpg'),
 	new Result("Возьми верёвку и иди в туалет", 4, 'https://3.bp.blogspot.com/-SyuuQ1-ZMo4/U8WgZC8ca2I/AAAAAAAAA1c/d-RhPc78RXw/s1600/277288_Papel-de-Parede-Meme-Isso-e-Suspeito_2048x1536.jpg'),
 	new Result("Ты Генрих", 6, 'https://pbs.twimg.com/media/Epv2dTMXMAAFrNY.jpg'),
-    new Result("Ты почти добрался до IQ ребенка", 8, 'https://i.ucrazy.ru/files/i/2012.7.2/1341232053_z_535868f3.jpg'),
-    new Result("Нихрена ты бравлер", 10, 'https://steamuserimages-a.akamaihd.net/ugc/1770449840184887267/ED7DA9E6E75128C7DD7FF1AD96BD8BDB3359B579/?imw=512&amp;imh=511&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true'),
-    new Result("ты потерял 5 минут своей жизни)))))))))😎", 12, 'https://c.tenor.com/z2JlZku6XtgAAAAd/red-sus.gif'),
+  new Result("Ты почти добрался до IQ ребенка", 8, 'https://i.ucrazy.ru/files/i/2012.7.2/1341232053_z_535868f3.jpg'),
+  new Result("Нихрена ты бравлер", 10, 'https://steamuserimages-a.akamaihd.net/ugc/1770449840184887267/ED7DA9E6E75128C7DD7FF1AD96BD8BDB3359B579/?imw=512&amp;imh=511&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true'),
+  new Result("ты потерял 5 минут своей жизни)))))))))😎", 12, 'https://c.tenor.com/z2JlZku6XtgAAAAd/red-sus.gif'),
+	new Result("остановись нахуй", 14, 'https://sun9-32.userapi.com/c857420/v857420954/47b8d/JP82dcYHMfA.jpg'),
+	new Result('Я газету проебав, а ты остановись(((', 16, 'https://www.pngitem.com/pimgs/m/450-4509473_cereal-meme-face-hd-png-download.png'),
+	new Result("Да ну нахуй, хватит плз", 18, 'https://avatars.mds.yandex.net/get-zen_doc/1585197/pub_5e42af153daffa442a677749_5e42b2a3382385540e95bcd7/scale_1200'),
+	new Result("Я в ахуе с тебя чел, что такое личная жизнь?", 20, 'https://pbs.twimg.com/media/EIO5LH6W4AEdcD_.jpg'),
 ];
 
 
@@ -237,7 +241,73 @@ const questions =
 		new Answer("Да", 0),
 		new Answer("Нет", 0),
 		new Answer("Я правда генрих?", 0)
-	])
+	]),
+
+	new Question("Пи пи, пупу, чек?", 
+	[
+		new Answer("Да не хочу я срать", 0),
+		new Answer("кого чекать", 0),
+		new Answer("Даун ебаный", 0),
+		new Answer("В туалет выйди!", 1)
+	]),
+
+	new Question("Спасибо за внимание?", 
+	[
+		new Answer("Нахуй пошёл", 1),
+		new Answer("Спасибо", 0),
+		new Answer("Пожалуйста", 0),
+		new Answer("Пошёл нахуй", 0)
+	]),
+
+	new Question("Внимание за спасибо?", 
+	[
+		new Answer("Опять ты нахуй?", 1),
+		new Answer("Нахуй ты опять?", 0),
+		new Answer("Негры", 0),
+		new Answer("Спасибо за внимание", 0)
+	]),
+
+	new Question("Данный тест заминирован. Что будете делать?", 
+	[
+		new Answer("Снимать трусы", 0),
+		new Answer("messi messi messi", 0),
+		new Answer("messi messi merci", 1),
+		new Answer("и бегать", 0)
+	]),
+
+	new Question("Snickers or Snegovicks?", 
+	[
+		new Answer("Twix", 1),
+		new Answer("Xwit", 0),
+		new Answer("messi messi merci", 0),
+		new Answer("ахуеть", 0)
+	]),
+
+	new Question("я тебя выебал, чё делать будем?", 
+	[
+		new Answer("Позавтракаем", 1),
+		new Answer("Поужинаем", 0),
+		new Answer("Пойдём в полицию", 0),
+		new Answer("мне 6 лет", 0)
+	]),
+
+	new Question("Я съел твой сникерс", 
+	[
+		new Answer("Пизда тебе", 0),
+		new Answer("1000 - 7", 1),
+		new Answer("7 - 1000", 0),
+		new Answer("Я генрих", 0)
+	]),
+
+	new Question("ты меня выебал, чё делать будем?", 
+	[
+		new Answer("ХЗ", 0),
+		new Answer("Пошёл нахуй", 0),
+		new Answer("Нахуй пошёл", 0),
+		new Answer("мне 6 лет", 0),
+		new Answer("undefined", 0),
+		new Answer("Пошёл нах", 0)
+	]),
 ];
 
 // Сам тест

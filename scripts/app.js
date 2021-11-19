@@ -140,7 +140,7 @@ const results =
 	new Result("остановись нахуй", 14, 'https://sun9-32.userapi.com/c857420/v857420954/47b8d/JP82dcYHMfA.jpg'),
 	new Result('Я газету проебав, а ты остановись(((', 16, 'https://www.pngitem.com/pimgs/m/450-4509473_cereal-meme-face-hd-png-download.png'),
 	new Result("Да ну нахуй, хватит плз", 18, 'https://avatars.mds.yandex.net/get-zen_doc/1585197/pub_5e42af153daffa442a677749_5e42b2a3382385540e95bcd7/scale_1200'),
-	new Result("Я в ахуе с тебя чел, что такое личная жизнь?", 20, 'https://pbs.twimg.com/media/EIO5LH6W4AEdcD_.jpg'),
+	new Result("Я в ахуе с тебя чел, что такое личная жизнь?", 19-20, 'https://pbs.twimg.com/media/EIO5LH6W4AEdcD_.jpg'),
 ];
 
 
@@ -235,7 +235,7 @@ const questions =
 		new Answer("Вы немного гей", 0)
 	]),
     
-        new Question("Был белый цвет, пришёл негр, перекрасил в белый. В чём ёжик?", 
+  new Question("Был белый цвет, пришёл негр, перекрасил в белый. В чём ёжик?", 
 	[
 		new Answer("Ёжик в ёжике, не мешайте", 1),
 		new Answer("Да", 0),

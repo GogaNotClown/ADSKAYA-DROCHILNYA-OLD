@@ -134,13 +134,13 @@ const results =
 	new Result("Моя бабушка и то больше набрала", 2, 'https://pbs.twimg.com/media/E7mDC45X0AULOxr.jpg'),
 	new Result("Возьми верёвку и иди в туалет", 4, 'https://3.bp.blogspot.com/-SyuuQ1-ZMo4/U8WgZC8ca2I/AAAAAAAAA1c/d-RhPc78RXw/s1600/277288_Papel-de-Parede-Meme-Isso-e-Suspeito_2048x1536.jpg'),
 	new Result("Ты Генрих", 6, 'https://pbs.twimg.com/media/Epv2dTMXMAAFrNY.jpg'),
-  new Result("Ты почти добрался до IQ ребенка", 8, 'https://i.ucrazy.ru/files/i/2012.7.2/1341232053_z_535868f3.jpg'),
-  new Result("Нихрена ты бравлер", 10, 'https://steamuserimages-a.akamaihd.net/ugc/1770449840184887267/ED7DA9E6E75128C7DD7FF1AD96BD8BDB3359B579/?imw=512&amp;imh=511&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true'),
-  new Result("ты потерял 5 минут своей жизни)))))))))😎", 12, 'https://c.tenor.com/z2JlZku6XtgAAAAd/red-sus.gif'),
+  	new Result("Ты почти добрался до IQ ребенка", 8, 'https://i.ucrazy.ru/files/i/2012.7.2/1341232053_z_535868f3.jpg'),
+  	new Result("Нихрена ты бравлер", 10, 'https://steamuserimages-a.akamaihd.net/ugc/1770449840184887267/ED7DA9E6E75128C7DD7FF1AD96BD8BDB3359B579/?imw=512&amp;imh=511&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true'),
+  	new Result("ты потерял 5 минут своей жизни)))))))))😎", 12, 'https://c.tenor.com/z2JlZku6XtgAAAAd/red-sus.gif'),
 	new Result("остановись нахуй", 14, 'https://sun9-32.userapi.com/c857420/v857420954/47b8d/JP82dcYHMfA.jpg'),
 	new Result('Я газету проебав, а ты остановись(((', 16, 'https://www.pngitem.com/pimgs/m/450-4509473_cereal-meme-face-hd-png-download.png'),
 	new Result("Да ну нахуй, хватит плз", 18, 'https://avatars.mds.yandex.net/get-zen_doc/1585197/pub_5e42af153daffa442a677749_5e42b2a3382385540e95bcd7/scale_1200'),
-	new Result("Я в ахуе с тебя чел, что такое личная жизнь?", 19-20, 'https://pbs.twimg.com/media/EIO5LH6W4AEdcD_.jpg'),
+	new Result("Я в ахуе с тебя чел, что такое личная жизнь?", 20, 'https://pbs.twimg.com/media/EIO5LH6W4AEdcD_.jpg'),
 ];
 
 

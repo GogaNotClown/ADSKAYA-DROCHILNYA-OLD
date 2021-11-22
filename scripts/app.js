@@ -141,6 +141,11 @@ const results =
 	new Result('Я газету проебав, а ты остановись(((', 16, 'https://www.pngitem.com/pimgs/m/450-4509473_cereal-meme-face-hd-png-download.png'),
 	new Result("Да ну нахуй, хватит плз", 18, 'https://avatars.mds.yandex.net/get-zen_doc/1585197/pub_5e42af153daffa442a677749_5e42b2a3382385540e95bcd7/scale_1200'),
 	new Result("Я в ахуе с тебя чел, что такое личная жизнь?", 20, 'https://pbs.twimg.com/media/EIO5LH6W4AEdcD_.jpg'),
+    new Result("А вот это уже вот это уже", 22, 'https://sun9-37.userapi.com/impg/B3bWSvhLnVa38k05yz0lE62gnJ_eoUkD-WIqYg/gQfybroJ7a4.jpg?size=510x340&quality=96&crop=125,0,829,553&sign=19c29835d3773097550e51b19536f55d&type=album'),
+    new Result("Тебе совсем заняться нечем?", 24, 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt0OgL9HfY2aJQ2EEUKp9ZKhenxK-KOtrJdQ&usqp=CAU'),
+    new Result("АААААА ебать!111", 26, 'https://cs7.pikabu.ru/post_img/2019/04/23/5/1556002372169067769.jpg'),
+    new Result("Генрих пидорас", 28, 'https://cdn130.picsart.com/322613444299211.png'),
+    new Result("Номер психолога 88005553535", 30, 'https://avatanplus.com/files/resources/mid/5de53087d983b16ec74592d3.png'),
 ];
 
 
@@ -301,18 +306,115 @@ const questions =
 
 	new Question("ты меня выебал, чё делать будем?", 
 	[
-		new Answer("ХЗ", 0),
+		new Answer("ХЗ", 1),
 		new Answer("Пошёл нахуй", 0),
 		new Answer("Нахуй пошёл", 0),
 		new Answer("мне 6 лет", 0),
 		new Answer("undefined", 0),
-		new Answer("Пошёл нах", 0)
+		new Answer("Пошёл нах", 0),
+        new Answer("Негры крутые парни", 1)
 	]),
+    
+    new Question("Что?", 
+	[
+		new Answer("Кто", 0),
+		new Answer("Да что?!", 0),
+		new Answer("Там это что?", 0),
+		new Answer("Да вот тут!", 1)
+	]),
+    
+    new Question("Кто?", 
+	[
+		new Answer("Генрих 1", 0),
+		new Answer("Генрих 2", 0),
+		new Answer("Генрих 3", 0),
+		new Answer("Гейнрих", 1),
+        new Answer("Генрих XXX", 0)
+	]),
+    
+    new Question("Кефир решает?", 
+	[
+		new Answer("Что решает?", 0),
+		new Answer("Что решил?", 0),
+		new Answer("Решала на ЧЕ", 1),
+		new Answer("А ты лох!111", 0)
+	]),
+    
+    new Question("Где?", 
+	[
+		new Answer("Да там", 0),
+		new Answer("Тама", 0),
+		new Answer("Тута", 0),
+		new Answer("Здеся", 1)
+	]),
+    
+    new Question("Whats App", 
+	[
+		new Answer("Ватс ааааааааааап", 1),
+		new Answer("Hello?", 0),
+		new Answer("Nine", 0),
+		new Answer("Viber", 0)
+	]),
+    
+    new Question("Было 2 генриха, одного съели, сколько козлов осталось?", 
+	[
+		new Answer("Генрих", 1),
+		new Answer("Пидорас", 1),
+		new Answer("А вы знали", 1),
+		new Answer("Что это", 1),
+        new Answer("Всё", 1),
+        new Answer("Не правда", 0),
+        new Answer("Да ладно шучу", 1),
+        new Answer("Генрих", 1),
+        new Answer("На самом деле", 1),
+        new Answer("Пидорас", 1)
+	]),
+    
+    new Question("Лысому шеф повару нужен поварской колпак?",
+	[
+		new Answer("Если не хочешь спиногрызов", 0),
+		new Answer("Да вообще похуй))))", 0),
+		new Answer("Of course", 0),
+		new Answer("Бабка отъебись", 1)
+	]),
+    
+    new Question("Предпочел бы усмирить утку размером с лошадь или сотню лошадей размером с утку?",
+	[
+		new Answer("2 тюбик клея был явно лишним", 0),
+		new Answer("2 тюбик ХАХАХАХ было явно ХАХАХАХ", 1),
+		new Answer("ХАХАХАХХА ((((", 0),
+		new Answer("я кукло... куколд крч", 0)
+	]),
+    
+    new Question("Если существует скорость звука или света, тогда почему нет скорости запаха?",
+	[
+		new Answer("Всё гениальное просто!", 0),
+		new Answer("Потому что", 0),
+		new Answer("Да не буду я нюхать твой клей", 1),
+		new Answer("Потому что бомжи", 0)
+	]),
+    
+    new Question("У гробов есть пожизненные гарантии?",
+	[
+		new Answer("ХАХАХАХАХ", 0),
+		new Answer("ХАХАХАХАХ", 0),
+		new Answer("ХАХАХАХАХ", 0),
+		new Answer("ХАХАХАХАХ", 0),
+        new Answer("Да отъебись бабка", 1),
+		new Answer("ХАХАХАХАХ", 0),
+		new Answer("ХАХАХАХАХ", 0),
+		new Answer("ХАХАХАХАХ", 0),
+        new Answer("ХАХАХАХАХ", 0),
+		new Answer("ХАХАХАХАХ", 0)
+	]),
+    
+    new Question(textContent = <iframe src="https://open.spotify.com/embed/track/6PRqEr7tDiaFpLnIKOQWNo?utm_source=generator&theme=0" width="50%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
 ];
 
-// Сам тест
+// Перемешка вопросов
 const quiz = new Quiz(questions.sort(() => 0.5 - Math.random()), results);
 
+// Сам тест
 Update();
 
 // Обновление теста

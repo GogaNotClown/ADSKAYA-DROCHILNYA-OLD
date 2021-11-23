@@ -424,7 +424,7 @@ const questions =
 	new Question("как правильно пить пиво?",
 	[
 		new Answer("Стоя", 1),
-		new Answer("Сидя, 1),
+		new Answer("Сидя", 1),
 		new Answer("Лежа", 1),
 		new Answer("Правильно не пить пиво", 0)
 	]),

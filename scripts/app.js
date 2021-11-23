@@ -237,7 +237,7 @@ const questions =
 		new Answer("Соснёшь за 5$?", 1)
 	]),
     
-    new Question("Я правда генрих?", 
+    	new Question("Я правда генрих?", 
 	[
 		new Answer("Конечно нет", 0),
 		new Answer("К сожалению да", 1),
@@ -245,7 +245,7 @@ const questions =
 		new Answer("Вы немного гей", 0)
 	]),
     
-  new Question("Был белый цвет, пришёл негр, перекрасил в белый. В чём ёжик?", 
+  	new Question("Был белый цвет, пришёл негр, перекрасил в белый. В чём ёжик?", 
 	[
 		new Answer("Ёжик в ёжике, не мешайте", 1),
 		new Answer("Да", 0),
@@ -411,6 +411,86 @@ const questions =
 		new Answer("ХАХАХАХАХ", 0),
         	new Answer("ХАХАХАХАХ", 0),
 		new Answer("ХАХАХАХАХ", 0)
+	]),
+	
+	new Question("Дети купите пиво?",
+	[
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0)
+	]),
+	
+	new Question("как правильно пить пиво?",
+	[
+		new Answer("Стоя", 1),
+		new Answer("Сидя, 1),
+		new Answer("Лежа", 1),
+		new Answer("Правильно не пить пиво", 0)
+	]),
+	
+	new Question("Во сколько закрывается магнит?",
+	[
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0)
+	]),
+	
+	new Question("Едет шеф полиции, чё делать?",
+	[
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0)
+	]),
+	
+	new Question("Сколько время?",
+	[
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0)
+	]),
+	
+	new Question("Пiшов тi нахуй?",
+	[
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0)
+	]),
+	
+	new Question("О О О мине повезло",
+	[
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0)
+	]),
+	
+	new Question("От чего уснёт Медведев?",
+	[
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0)
+	]),
+	
+	new Question("Можно я пну мяч, по братски?",
+	[
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0)
+	]),
+	
+	new Question("Почему что?",
+	[
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0),
+		new Answer("", 0)
 	]),
 ];
 

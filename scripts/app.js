@@ -413,12 +413,12 @@ const questions =
 		new Answer("ХАХАХАХАХ", 0)
 	]),
 	
-	new Question("Дети купите пиво?",
+	new Question("Дети, купите пиво?",
 	[
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0)
+		new Answer("Of course", 0),
+		new Answer("Пошёл нахуй", 0),
+		new Answer("Агу агу", 1),
+		new Answer("С тебя девственность", 0)
 	]),
 	
 	new Question("как правильно пить пиво?",
@@ -431,66 +431,66 @@ const questions =
 	
 	new Question("Во сколько закрывается магнит?",
 	[
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0)
+		new Answer("После 3 пары", 0),
+		new Answer("Тогда когда надо", 0),
+		new Answer("8:00 - 22:00", 0),
+		new Answer("8:00 - 22:30", 1)
 	]),
 	
 	new Question("Едет шеф полиции, чё делать?",
 	[
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0)
+		new Answer("Дрочить", 1),
+		new Answer("Мастурбировать", 1),
+		new Answer("Расслабляться", 1),
+		new Answer("Ублажать себя", 1)
 	]),
 	
 	new Question("Сколько время?",
 	[
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0)
+		new Answer("Пол пельменя", 1),
+		new Answer("Пол капусты", 0),
+		new Answer("12:30 время позднего обеда", 1),
+		new Answer("Бабка отъебись", 0)
 	]),
 	
 	new Question("Пiшов тi нахуй?",
 	[
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0)
+		new Answer("Сам пошёл", 0),
+		new Answer("АХАХАХ говорящая свинья", 1),
+		new Answer("Ок", 0),
+		new Answer("Не ок", 0)
 	]),
 	
 	new Question("О О О мине повезло",
 	[
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0)
+		new Answer("Нашёв 10 гривни", 0),
+		new Answer("Нашёв 10000 гривни", 0),
+		new Answer("Нашёв 100 гривни", 1),
+		new Answer("ХАХАХАХ говорящая свинья", 0)
 	]),
 	
 	new Question("От чего уснёт Медведев?",
 	[
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0)
+		new Answer("От спячки АХХАХА РОССИЯ ВПЕРДЕ", 1),
+		new Answer("От скуки", 0),
+		new Answer("От лапы", 0),
+		new Answer("От путина", 0)
 	]),
 	
 	new Question("Можно я пну мяч, по братски?",
 	[
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0)
+		new Answer("Бабка, съебись нахуй", 1),
+		new Answer("А хуй тебе не дать пнуть", 0),
+		new Answer("Да кнш", 0),
+		new Answer("Пошёл нахуй", 0)
 	]),
 	
 	new Question("Почему что?",
 	[
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0),
-		new Answer("", 0)
+		new Answer("Потому что где", 0),
+		new Answer("5 тюбик ГДЕ был явно ЧТО", 1),
+		new Answer("Негры, а что ещё?", 0),
+		new Answer("АХХАХА говорящий медведь", 0)
 	]),
 ];
 
